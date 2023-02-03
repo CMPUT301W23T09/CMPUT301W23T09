@@ -3,6 +3,7 @@ package com.example.cmput301w23t09;
 public abstract class Shape {
 
     protected int x, y;
+    protected String color = "$PUT_YOUR_CHOICE_OF_COLOR";
 
     public Shape() {
         x = 0;
