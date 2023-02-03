@@ -3,7 +3,6 @@ package com.example.cmput301w23t09;
 public abstract class Shape {
 
     protected int x, y;
-    private String color = "black";
 
     public Shape() {
         x = 0;
