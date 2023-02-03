@@ -3,7 +3,11 @@ package com.example.cmput301w23t09;
 public abstract class Shape {
 
     protected int x, y;
-    protected String color = "Blue";
+<<<<<<< HEAD
+    protected String color = "turquoise";
+=======
+    protected String color = "turquoise";
+>>>>>>> 59ae7736af7005331c71b905063d3d72ff25caa4
 
     public Shape() {
         x = 0;
